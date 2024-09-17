@@ -20,6 +20,7 @@
     "@openreplay/tracker": "^12.0.12",
     "@react-google-maps/api": "^2.19.3",
     "@stripe/react-stripe-js": "^2.7.0",
+    "@tanstack/eslint-plugin-query": "^5.56.1",
     "@usersnap/browser": "^0.0.5",
     "ably": "^2.0.3",
     "autoprefixer": "10.4.15",
